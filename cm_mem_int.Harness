@@ -1,0 +1,2 @@
+par_mem_int=mem_a0,mem_a1,mem_a2,mem_a3,mem_a4,mem_a5,mem_a6,mem_a7,mem_a8,mem_a9,mem_a10,mem_a11,mem_a12,mem_a13,mem_a14,mem_a15,mem_a16,mem_a17,mem_d0,mem_d1,mem_d2,mem_d3,mem_d4,mem_d5,mem_d6,mem_d7,mem_d8,mem_d9,mem_d10,mem_d11,mem_d12,mem_d13,mem_d14,mem_d15,mem_ce0,mem_ce1,mem_we,mem_oe,mem_lb,mem_ub
+spi_mem_int=mem_mosi,mem_miso,mem_sclk,mem_cs0,mem_cs1,mem_cs2,mem_cs3,mem_cs4,mem_cs5
