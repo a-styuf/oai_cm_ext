@@ -1,0 +1,2 @@
+SpW=Dout,Sout,Din,Sin,irq
+SpW_load=DinN,DinP,DoutN,DoutP,SinN,SinP,SoutN,SoutP
