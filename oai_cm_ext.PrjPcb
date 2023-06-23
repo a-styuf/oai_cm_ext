@@ -201,6 +201,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QINLLNBH
 
+[Document10]
+DocumentPath=..\MY_LIB\BTI7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XCOQKCDZ
+
 [Parameter1]
 Name=GlobalProjectName
 Value=ОАИ ЦМ
