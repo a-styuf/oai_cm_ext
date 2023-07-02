@@ -1,0 +1,10 @@
+Output: MultiWire
+Type  : MultiWire
+From  : Project [oai_cm_ext.PrjPcb]
+   Generated File[oai_cm_ext.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:30:24 On 30.06.2023
